@@ -1,0 +1,29 @@
+---
+title: "Jake Sinkowitz"
+image: "JakeSinkowitzPhoto.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/jake-sinkowitz-a97690374"
+  - label: Email
+    url: "jsinkow1@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Jake Sinkowitz is an MPH student at the Johns Hopkins Bloomberg School of Public Health and a medical student at the Georgetown University School of Medicine. He intends to pursue residency in internal medicine.
+
+## Education
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Microbial Biology 2020
+
+## Interests
+
+Improving healthcare delivery for the unhoused community, people living with HIV, and people who use drugs.
+
+## Hobbies
+
+Sports, music, hiking, and mushroom foraging.
