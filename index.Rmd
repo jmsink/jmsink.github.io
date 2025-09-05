@@ -3,9 +3,11 @@ title: "Jake Sinkowitz"
 image: "JakeSinkowitzPhoto.jpg"
 links:
   - label: LinkedIn
-    url: "www.linkedin.com/in/jake-sinkowitz-a97690374"
+    url: "https://www.linkedin.com/in/jake-sinkowitz-a97690374"
   - label: Email
-    url: "jsinkow1@jh.edu"
+    url: "mailto:jsinkow1@jh.edu"
+  - label: iNaturalist
+    url: "https://www.inaturalist.org/people/jakesink"
 output:
   postcards::trestles
 ---
